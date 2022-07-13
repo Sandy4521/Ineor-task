@@ -1,0 +1,63 @@
+
+form {
+    width: 500px;
+    height: 550px;
+    margin-left: 620px;
+    position: relative;
+    margin-top: -437px;
+    border: none;
+}
+
+button{
+  margin-left: 72px;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 60px;
+  width: 350px;
+  opacity: 1;
+  background-color: #e76f47;
+
+  
+}
+span{
+    color: rgb(255, 255, 255);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.7px;
+    
+}
+
+.title{
+    font-size: 5em;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+
+    
+}
+.text{
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 380px;
+       /* font-size:20px; */
+
+    
+}
+
+img{
+    width: 800px;
+    height: 550px;
+ 
+}
+
+header{
+    align-items: center;
+
+}
+footer{
+   height: 500px;
+
+}
